@@ -3,5 +3,7 @@
   "rules": {
     "no-unused-vars": [2, {"vars": "all", "args": "after-used"}],
     "quote-props": 0,
+    "indent": ["error", 2],
+    "jsx-indent-props": [2, 2]
   },
 }
